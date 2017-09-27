@@ -9,23 +9,25 @@ body {
   color: khaki;
   text-align: center;
 }
-
+h2 {
+font-size: 32px;
+}
 .Brushes {
-  font-size: 32px;
+  
   font-weight: bold;
   color: white;
   background-color: mediumspringgreen;
 }
 
 .Frames {
-  font-size: 32px;
+  
   font-weight: bold;
   color: white;
   background-color: lightcoral;
 }
 
 .Paint {
-  font-size: 32px;
+  
   font-weight: bold;
   color: white;
   background-color: skyblue;
